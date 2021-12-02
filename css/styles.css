@@ -2,6 +2,15 @@ body {
     background: white;
 }
 
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #fff
+    url('/Rituraj-Mahato/img/Ellipsis-1.9s-200px.gif') no-repeat center;
+    z-index: 9999999;
+}
+
 .g1 {
     width: 32px;
     margin-right: 15px;
