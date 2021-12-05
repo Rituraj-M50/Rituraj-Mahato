@@ -434,9 +434,6 @@ body {
 /* Very Small Device */
 
 @media (max-width: 575px){
-    html, body{
-        overflow-x: hidden;
-    }
     .navbar-brand{
         font-size: 14px;
     }
@@ -601,9 +598,6 @@ body {
 /* VV Smaller Device*/
 
 @media (max-width: 530px){
-    html, body{
-        overflow-x: hidden;
-    }
     .navbar-brand{
         font-size: 14px;
     }
@@ -769,9 +763,6 @@ body {
 /* EXtra VV Small */
 
 @media (max-width: 469px){
-    html, body{
-        overflow-x: hidden;
-    }
     .navbar-brand{
         font-size: 12px;
     }
@@ -937,9 +928,6 @@ body {
 /* IPhone Configuration */
 
 @media (max-width: 414px){
-    html, body{
-        overflow-x: hidden;
-    }
     .navbar-brand{
         font-size: 12px;
     }
@@ -1106,9 +1094,6 @@ body {
 
 
 @media (max-width: 375px){
-    html, body{
-        overflow-x: hidden;
-    }
     .navbar-brand{
         font-size: 12px;
     }
@@ -1274,9 +1259,6 @@ body {
 /* IPhone 5 and Samsung S5 */
 
 @media (max-width: 360px){
-    html, body{
-        overflow-x: hidden;
-    }
     .navbar-brand{
         font-size: 10px;
     }
@@ -1443,9 +1425,6 @@ body {
 /* For My Phone and Other Similar... */
 
 @media (max-width: 320px){
-    html, body{
-        overflow-x: hidden;
-    }
     .navbar-brand{
         font-size: 10px;
     }
