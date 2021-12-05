@@ -1425,6 +1425,9 @@ body {
 /* For My Phone and Other Similar... */
 
 @media (max-width: 320px){
+    html, body{
+        overflow-x: hidden;
+    }
     .navbar-brand{
         font-size: 10px;
     }
