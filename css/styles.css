@@ -1,5 +1,10 @@
 body {
     background: white;
+    overflow-x:hidden;
+}
+
+html{
+    overflow-wrap: break-word;
 }
 
 .page-preloader{position: fixed;top: 0;bottom: 0;width: 100%;z-index:100000;background:#FFFFFF url("/Rituraj-Mahato/img/Ellipsis-1.9s-200px.svg") no-repeat center center;animation-name: preloader-fade;animation-delay: 2s;animation-duration: 0.5s;animation-fill-mode: both;}
